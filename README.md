@@ -1,5 +1,7 @@
 # Contact Form Mailer API
 
+### AI Generated :)
+
 A secure, rate-limited API for handling contact form submissions and sending emails via Gmail.
 
 ## Features
